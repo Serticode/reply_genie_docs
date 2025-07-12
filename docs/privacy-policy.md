@@ -2,7 +2,7 @@
 
 We at **Reply Genie** built this app as a free service.
 
-This SERVICE is provided by Reply Genie and managed by **Raymond Somto** at no cost and is intended for use “as‑is.”
+This SERVICE is provided by Reply Genie and managed by **Somtochukwu Mbaegbu** at no cost and is intended for use “as‑is.”
 This page informs visitors of our policies regarding the collection, use, and disclosure of personal information when using our Service.
 By choosing to use our Service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used solely to provide and improve the Service. We will not use or share your information except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Focus Drop unless otherwise defined in this Privacy Policy.
@@ -52,7 +52,7 @@ Our Service is not intended for individuals under the age of 13. We do not knowi
 
 We may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any updates by posting the new Privacy Policy here.
 
-This policy is effective as of **July 26, 2025**.
+This policy is effective as of **July 18, 2025**.
 
 ### 9. Contact Us
 

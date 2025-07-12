@@ -85,4 +85,4 @@ Email: [Replygenie.app@gmail.com](mailto:Replygenie.app@gmail.com)
 
 ---
 
-**Effective Date:** July 26, 2025
+**Effective Date:** July 18, 2025
