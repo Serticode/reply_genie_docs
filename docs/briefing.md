@@ -34,6 +34,14 @@ Dominate Every Conversation: From casual chats to important DMs, Reply Genie equ
 
 Monetization & Retention: The app integrates a robust subscription-based in-app purchase model (weekly, monthly, or annual), which has proven effective in boosting user retention by 25%.
 
+## Screenshots
+
+<img width="" height="640" alt="reply_genie_app_store_images4" src="https://github.com/user-attachments/assets/cdb5fbb7-b814-488b-9d2d-da11bdd156f6" />        <img width="" height="640" alt="reply_genie_app_store_images3" src="https://github.com/user-attachments/assets/46bdd7c4-49f5-46e7-afd6-805fcda0723d" />
+
+
+<img width="" height="640" alt="reply_genie_app_store_images2" src="https://github.com/user-attachments/assets/1b7aea47-0315-4d01-b3ce-919bcde00c42" />        <img width="" height="640" alt="reply_genie_app_store_images1" src="https://github.com/user-attachments/assets/57abc837-daca-4586-8944-aa5c2a494eb6" />
+
+
 ## Technical Details
 
 Framework: Flutter (Dart)
